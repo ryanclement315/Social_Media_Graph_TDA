@@ -5,7 +5,7 @@ This project analyzes the structure of Reddit's subreddit hyperlink network usin
 [Link to Project Report](FILE_NAME.pdf) 
 
 
-[Link to Video Presentation]{https://youtu.be/dcjqedAjVsU}
+[Link to Video Presentation](https://youtu.be/dcjqedAjVsU)
 
 ## Project Structure
 
