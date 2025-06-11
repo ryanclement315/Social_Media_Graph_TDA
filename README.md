@@ -2,6 +2,11 @@
 
 This project analyzes the structure of Reddit's subreddit hyperlink network using Topological Data Analysis (TDA), persistent homology, and graph-theoretic methods.
 
+[Link to Project Report](FILE_NAME.pdf) 
+
+
+[Link to Video Presentation]{https://youtu.be/dcjqedAjVsU}
+
 ## Project Structure
 
 - **build_script.py**  
